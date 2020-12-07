@@ -1,0 +1,12 @@
+package demo;
+
+public class Sample1 
+{
+
+	public static void main(String[] args)
+	{
+	       System.out.println("Hello Everyone, Very good Morning to all of You.");
+
+	}
+
+}
